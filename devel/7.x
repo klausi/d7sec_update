@@ -5,6 +5,9 @@
   <dc:creator>moshe weitzman</dc:creator>
   <type>project_module</type>
   <api_version>7.x</api_version>
+  <recommended_major>1</recommended_major>
+  <supported_majors>1</supported_majors>
+  <default_major>1</default_major>
   <project_status>published</project_status>
   <link>https://www.drupal.org/project/devel</link>
   <terms>
