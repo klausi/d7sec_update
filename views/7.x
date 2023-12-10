@@ -34,7 +34,7 @@
       <status>published</status>
       <release_link>https://www.drupal.org/project/views/releases/7.x-3.29</release_link>
       <download_link>https://ftp.drupal.org/files/projects/views-7.x-3.29.tar.gz</download_link>
-      <date>Security update</date>
+      <date>1702204537</date>
       <mdhash>91182f951261980ff97faecf3d1ec327</mdhash>
       <filesize>1667514</filesize>
       <files>
