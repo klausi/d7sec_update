@@ -5,7 +5,7 @@
   <dc:creator>moshe weitzman</dc:creator>
   <type>project_module</type>
   <api_version>7.x</api_version>
-  <project_status>unsupported</project_status>
+  <project_status>published</project_status>
   <link>https://www.drupal.org/project/devel</link>
   <terms>
     <term>
