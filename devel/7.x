@@ -39,6 +39,42 @@
   </terms>
   <releases>
     <release>
+      <name>devel 7.x-1.8</name>
+      <version>7.x-1.8</version>
+      <tag>7.x-1.8</tag>
+      <version_major>1</version_major>
+      <version_patch>8</version_patch>
+      <status>published</status>
+      <release_link>https://www.drupal.org/project/devel/releases/7.x-1.7</release_link>
+      <download_link>https://ftp.drupal.org/files/projects/devel-7.x-1.7.tar.gz</download_link>
+      <date>1550852888</date>
+      <mdhash>d78bc2e1b2412b89002781006097b32c</mdhash>
+      <filesize>193918</filesize>
+      <files>
+        <file>
+          <url>https://ftp.drupal.org/files/projects/devel-7.x-1.7.tar.gz</url>
+          <archive_type>tar.gz</archive_type>
+          <md5>d78bc2e1b2412b89002781006097b32c</md5>
+          <size>193918</size>
+          <filedate>1550852888</filedate>
+        </file>
+        <file>
+          <url>https://ftp.drupal.org/files/projects/devel-7.x-1.7.zip</url>
+          <archive_type>zip</archive_type>
+          <md5>fc590f918727323e4827f9ab6b076235</md5>
+          <size>249096</size>
+          <filedate>1550852888</filedate>
+        </file>
+      </files>
+      <terms>
+        <term>
+          <name>Release type</name>
+          <value>Security update</value>
+        </term>
+      </terms>
+      <security covered="1">Covered by Drupal's security advisory policy</security>
+    </release>
+    <release>
       <name>devel 7.x-1.7</name>
       <version>7.x-1.7</version>
       <tag>7.x-1.7</tag>
